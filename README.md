@@ -42,4 +42,3 @@ MIT
 - Repomuzun içine bir adet index.html dosyası oluşturun.   +
 * En sonunda yaptığınız değişiklikleri ekleyin, commitleyin ve gönderin. +
 
-"""Gitignore da yok"""
